@@ -32,7 +32,21 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+li {
+  list-style: none;
+  font-weight: 500;
+}
+
+h3 {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
 }
